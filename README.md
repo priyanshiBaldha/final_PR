@@ -14,6 +14,7 @@ Made by Priyanshi Baldha.
 - Main features are as follows:
     - Multiple Jokes
     - Splash Screen
+    - Using API
     - Jokes with Current date and time 
     - Make your choice Jokes list
 
