@@ -13,6 +13,7 @@ Made by Priyanshi Baldha.
 
 - Main features are as follows:
     - Multiple Jokes
+    - Splash Screen
     - Jokes with Current date and time 
     - Make your choice Jokes list
 
@@ -28,7 +29,8 @@ Made by Priyanshi Baldha.
 
 
 
-https://user-images.githubusercontent.com/113037698/236628242-ca9ca4ef-89cf-49a6-a779-18f9ca060d04.mp4
+
+https://github.com/priyanshiBaldha/final_PR/assets/113037698/6c804491-3fb4-4a07-a4e8-ebce58cf7ed6
 
 
 
